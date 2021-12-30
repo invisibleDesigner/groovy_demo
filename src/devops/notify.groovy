@@ -23,4 +23,4 @@ def notify(String webhookId, service, branch, commit, commitTime, commiter) {
     println(post.getInputStream().getText());
 }
 
-notify("3c676c3f-82a3-4e2a-9a49-df65b758e463", 1, 1, 1, 1,1)
+//notify("3c676c3f-82a3-4e2a-9a49-df65b758e463", 1, 1, 1, 1,1)
