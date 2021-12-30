@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/groovy_playground.iml" filepath="$PROJECT_DIR$/groovy_playground.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shareLibrary.iml" filepath="$PROJECT_DIR$/shareLibrary.iml" />
     </modules>
   </component>
 </project>
