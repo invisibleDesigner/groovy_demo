@@ -1,6 +1,6 @@
 package devops
 
-static def notify(String webhookId, service, branch, commit, commitTime, commiter) {
+def notify(String webhookId, service, branch, commit, commitTime, commiter) {
 
     String content = " 项目:         ${service}\n 分支:         ${branch}\n 提交:         ${commit}\n 提交人:     @${commiter}\n 提交时间: ${commitTime}\n 部署成功"
 
